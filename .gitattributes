@@ -1,0 +1,4 @@
+datasets/Ciao/* filter=lfs diff=lfs merge=lfs -text
+datasets/Epinions/* filter=lfs diff=lfs merge=lfs -text
+weights/Epinions/* filter=lfs diff=lfs merge=lfs -text
+weights/Ciao/* filter=lfs diff=lfs merge=lfs -text
